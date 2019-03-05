@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeRace", "BikeRace\BikeRace.csproj", "{BC65A0DC-E333-4FDC-B38D-8FB7EFF93EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeRaceTests", "BikeRaceTests\BikeRaceTests.csproj", "{5AF4BDCA-F564-4265-B691-C0235B743915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC65A0DC-E333-4FDC-B38D-8FB7EFF93EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC65A0DC-E333-4FDC-B38D-8FB7EFF93EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC65A0DC-E333-4FDC-B38D-8FB7EFF93EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC65A0DC-E333-4FDC-B38D-8FB7EFF93EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF4BDCA-F564-4265-B691-C0235B743915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF4BDCA-F564-4265-B691-C0235B743915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF4BDCA-F564-4265-B691-C0235B743915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF4BDCA-F564-4265-B691-C0235B743915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E26AC2A-1917-442D-A8AE-B4BEA71FE243}
+	EndGlobalSection
+EndGlobal
